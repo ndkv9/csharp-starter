@@ -1,0 +1,3 @@
+# csharp-starter
+
+STARTER FOR CSHARP PROJECTS IN VSCODE
