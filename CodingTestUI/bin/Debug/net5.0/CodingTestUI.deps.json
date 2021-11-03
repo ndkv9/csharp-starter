@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CodingTestUI/1.0.0": {
+        "dependencies": {
+          "CodingTestLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CodingTestUI.dll": {}
+        }
+      },
+      "CodingTestLibrary/1.0.0": {
+        "runtime": {
+          "CodingTestLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodingTestUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodingTestLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
